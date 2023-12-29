@@ -1,0 +1,144 @@
+Uri: https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap
+File Name: C:\Downloaded Web Sites\swap.zebec.io\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dmsans/v14/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\swap.zebec.io\s\dmsans\v14\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v14/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\swap.zebec.io\s\dmsans\v14\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v14/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\swap.zebec.io\s\dmsans\v14\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\swap.zebec.io\s\inter\v12\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\swap.zebec.io\s\inter\v12\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7W0Q5nw.woff2
+File Name: C:\Downloaded Web Sites\swap.zebec.io\s\inter\v12\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7W0Q5nw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\swap.zebec.io\s\inter\v12\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\swap.zebec.io\s\inter\v12\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\swap.zebec.io\s\inter\v12\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\swap.zebec.io\s\inter\v12\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZs.woff
+File Name: C:\Downloaded Web Sites\swap.zebec.io\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZs.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZs.woff
+File Name: C:\Downloaded Web Sites\swap.zebec.io\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZs.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZs.woff
+File Name: C:\Downloaded Web Sites\swap.zebec.io\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZs.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZs.woff
+File Name: C:\Downloaded Web Sites\swap.zebec.io\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZs.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZs.woff
+File Name: C:\Downloaded Web Sites\swap.zebec.io\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZs.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZs.woff
+File Name: C:\Downloaded Web Sites\swap.zebec.io\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZs.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZs.woff
+File Name: C:\Downloaded Web Sites\swap.zebec.io\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZs.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZs.woff
+File Name: C:\Downloaded Web Sites\swap.zebec.io\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZs.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZs.woff
+File Name: C:\Downloaded Web Sites\swap.zebec.io\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZs.woff
+Content Type: font/woff
+
+Uri: https://swap.zebec.io/
+File Name: C:\Downloaded Web Sites\swap.zebec.io\index.htm
+Content Type: text/html
+
+Uri: https://swap.zebec.io/favicon.ico
+File Name: C:\Downloaded Web Sites\swap.zebec.io\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://swap.zebec.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fzebec-light-logo.b25ff0fd.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\swap.zebec.io\_next\zebec-light-logo.png
+Content Type: image/png
+
+Uri: https://swap.zebec.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fzebec-light-logo.b25ff0fd.png&w=96&q=75
+File Name: C:\Downloaded Web Sites\swap.zebec.io\_next\zebec-light-logo-1.png
+Content Type: image/png
+
+Uri: https://swap.zebec.io/_next/static/chunks/193-70d4abced8fbe74a.js
+File Name: C:\Downloaded Web Sites\swap.zebec.io\_next\static\chunks\193-70d4abced8fbe74a.js
+Content Type: application/javascript
+
+Uri: https://swap.zebec.io/_next/static/chunks/491-451f041bf1b40ed0.js
+File Name: C:\Downloaded Web Sites\swap.zebec.io\_next\static\chunks\491-451f041bf1b40ed0.js
+Content Type: application/javascript
+
+Uri: https://swap.zebec.io/_next/static/chunks/802-fd5cb2d079dd717d.js
+File Name: C:\Downloaded Web Sites\swap.zebec.io\_next\static\chunks\802-fd5cb2d079dd717d.js
+Content Type: application/javascript
+
+Uri: https://swap.zebec.io/_next/static/chunks/framework-21e3f028c1d5b784.js
+File Name: C:\Downloaded Web Sites\swap.zebec.io\_next\static\chunks\framework-21e3f028c1d5b784.js
+Content Type: application/javascript
+
+Uri: https://swap.zebec.io/_next/static/chunks/main-9533872df61c4596.js
+File Name: C:\Downloaded Web Sites\swap.zebec.io\_next\static\chunks\main-9533872df61c4596.js
+Content Type: application/javascript
+
+Uri: https://swap.zebec.io/_next/static/chunks/pages/index-0417833a662b74e1.js
+File Name: C:\Downloaded Web Sites\swap.zebec.io\_next\static\chunks\pages\index-0417833a662b74e1.js
+Content Type: application/javascript
+
+Uri: https://swap.zebec.io/_next/static/chunks/pages/_app-81f0679194d7a66e.js
+File Name: C:\Downloaded Web Sites\swap.zebec.io\_next\static\chunks\pages\_app-81f0679194d7a66e.js
+Content Type: application/javascript
+
+Uri: https://swap.zebec.io/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\swap.zebec.io\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://swap.zebec.io/_next/static/chunks/webpack-074b1dc57dc6d710.js
+File Name: C:\Downloaded Web Sites\swap.zebec.io\_next\static\chunks\webpack-074b1dc57dc6d710.js
+Content Type: application/javascript
+
+Uri: https://swap.zebec.io/_next/static/css/b9d7459d530f39ca.css
+File Name: C:\Downloaded Web Sites\swap.zebec.io\_next\static\css\b9d7459d530f39ca.css
+Content Type: text/css
+
+Uri: https://swap.zebec.io/_next/static/DAuNlIqf0CV120bQqhcGK/_buildManifest.js
+File Name: C:\Downloaded Web Sites\swap.zebec.io\_next\static\DAuNlIqf0CV120bQqhcGK\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://swap.zebec.io/_next/static/DAuNlIqf0CV120bQqhcGK/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\swap.zebec.io\_next\static\DAuNlIqf0CV120bQqhcGK\_ssgManifest.js
+Content Type: application/javascript
+
